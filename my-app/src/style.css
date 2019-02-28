@@ -1,0 +1,133 @@
+.ui.borderless.topmenu.menu {
+  background-color: black;
+  box-shadow: none;
+  border: none;
+  font-family: 'Austin-Roman-Web', sans-serif;
+  color: #bfa69a;
+}
+
+.ui.borderless.middlemenu.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.footer-background {
+  background-color: #f5f5f5;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#logoLV {
+  font-family: 'Austin-Roman-Web', sans-serif;
+  color: whitesmoke;
+  height: 100%;
+  margin-left: -95px;
+}
+
+#color {
+  color: #bfa69a;
+}
+
+#color1 {
+  color: #bfa69a;
+}
+
+#color2 {
+  color: #bfa69a;
+}
+
+#color3 {
+  color: #bfa69a;
+}
+
+#color4 {
+  color: #bfa69a;
+}
+
+#color5 {
+  color: #bfa69a;
+}
+
+#color6 {
+  color: #bfa69a;
+}
+
+#color7 {
+  color: #bfa69a;
+}
+
+#color8 {
+  color: #bfa69a;
+}
+
+#color9 {
+  color: #bfa69a;
+}
+
+#color10 {
+  color: #bfa69a;
+}
+
+#color11 {
+  color: #bfa69a;
+}
+
+#color12 {
+  color: #bfa69a;
+}
+
+#color13 {
+  color: #bfa69a;
+}
+
+
+.margin {
+  margin-top: -20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  length: 1460px;
+  height: 636px;
+
+}
+
+.ui.borderless.middlemenuu.menu.container {
+  box-shadow: none;
+  border: none;
+
+
+}
+
+#move {
+  color: black;
+  margin-bottom: 10px;
+}
+
+#center {
+  color: black;
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Austin-Roman-Web', sans-serif;
+  margin-top:20px;
+
+}
+
+#movee {
+  margin-bottom: -30px;
+}
+
+#uibutton {
+  background-color: rgb(83, 63, 52);
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#moveee {
+  margin-bottom: 10px;
+}
+
+#navbar {
+  background-color: #150d0f;
+  color: #150d0f;
+  margin-top: -20px;
+}
